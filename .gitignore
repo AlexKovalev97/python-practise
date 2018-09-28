@@ -20,7 +20,7 @@ parts/
 sdist/
 var/
 wheels/
-.idea
+#.idea
 *.egg-info/
 .installed.cfg
 *.egg
@@ -84,9 +84,9 @@ celerybeat-schedule
 
 # Environments
 .env
-.venv
+#.venv
 env/
-venv/
+#venv/
 ENV/
 env.bak/
 venv.bak/
